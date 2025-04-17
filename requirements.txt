@@ -1,0 +1,15 @@
+datasets
+sklearn-crfsuite
+transformers
+beautifulsoup4
+nltk 
+spacy
+rdflib
+matplotlib
+pandas
+numpy
+requests
+scikit-learn
+torch
+pykeen
+selenium
